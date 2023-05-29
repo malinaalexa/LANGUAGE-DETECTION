@@ -1,0 +1,136 @@
+Hello, how are you? 1
+This is a test. 1
+I love pizza. 1
+Can you help me? 1
+What time is it? 1
+I'm going to the store. 1
+Where is the nearest bank? 1
+How old are you? 1
+Have a nice day! 1
+What's your name? 1
+I'm sorry. 1
+Do you speak English? 1
+The weather is nice today. 1
+I'm hungry. 1
+Can I have a glass of water? 1
+Excuse me, where is the restroom? 1
+I like to read books. 1
+How far is the airport? 1
+What's your favorite color? 1
+Can you repeat that, please? 1
+I need a doctor. 1
+Where are you from? 1
+I have a question. 1
+It's nice to meet you. 1
+What's the capital of France? 1
+I don't understand. 1
+Can you recommend a good restaurant? 1
+I'm looking for a hotel. 1
+Is there a pharmacy nearby? 1
+I'm from New York. 1
+How do you spell that? 1
+I'm lost. 1
+What's the date today? 1
+Can you show me on the map? 1
+I'm learning to play the guitar. 1
+Can you help me with my homework? 1
+What's your favorite movie? 1
+Do you have any siblings? 1
+What's the price of this item? 1
+I'm going on vacation next week. 1
+What's the Wi-Fi password? 1
+Can you give me directions to the nearest gas station? 1
+I'm tired. 1
+Do you have any recommendations for tourist attractions? 1
+Can I have the bill, please? 1
+What's your favorite food? 1
+I'm studying for an exam. 1
+How do I get to the train station? 1
+What's the best way to get to the city center? 1
+I'm going to a concert tonight. 1
+What's your phone number? 1
+I'm allergic to peanuts. 1
+Can you speak slower, please? 1
+Do you have any vegetarian options? 1
+I'm attending a wedding tomorrow. 1
+What's the nearest bus stop? 1
+Can I have a menu, please? 1
+I'm visiting my family this weekend. 1
+What's your favorite book? 1
+I'm taking a photography class. 1
+What's the weather forecast for tomorrow? 1
+I'm going shopping. 1
+Can I try this on? 1
+What's the nearest subway station? 1
+I'm going to the beach. 1
+What's your favorite sport? 1
+I'm attending a conference next week. 1
+Can I pay with a credit card? 1
+What's the exchange rate for dollars to euros? 1
+I'm going to a party tonight. 1
+What's the traffic like in this area? 1
+I'm starting a new job next month. 1
+Can you recommend a good book to read? 1
+What's your favorite music genre? 1
+I'm going to the cinema. 1
+What's the nearest parking lot? 1
+I'm attending a concert tomorrow. 1
+Can I have a receipt, please? 1
+What's the cost of a ticket? 1
+I'm going hiking this weekend. 1
+What's the closest hotel to the airport? 1
+Hola, ¿cómo estás? 0
+Esto es una prueba. 0
+Me encanta la pizza. 0
+¿Me puedes ayudar? 0
+¿Qué hora es? 0
+Voy a la tienda. 0
+¿Dónde está el banco más cercano? 0
+¿Cuántos años tienes? 0
+¡Que tengas un buen día! 0
+¿Cómo te llamas? 0
+Lo siento. 0
+¿Hablas inglés? 0
+El clima está agradable hoy. 0
+Tengo hambre. 0
+¿Puedo tomar un vaso de agua? 0
+Disculpe, ¿dónde está el baño? 0
+Me gusta leer libros. 0
+¿Qué tan lejos está el aeropuerto? 0
+¿Cuál es tu color favorito? 0
+¿Puedes repetir eso, por favor? 0
+Necesito un médico. 0
+¿De dónde eres? 0
+Tengo una pregunta. 0
+Es un gusto conocerte. 0
+¿Cuál es la capital de España? 0
+No entiendo. 0
+¿Puedes recomendar un buen restaurante? 0
+Estoy buscando un hotel. 0
+¿Hay una farmacia cerca? 0
+Soy de Madrid. 0
+¿Cómo se escribe eso? 0
+Estoy perdido. 0
+¿Qué fecha es hoy? 0
+¿Puedes mostrarme en el mapa? 0
+Estoy aprendiendo a tocar la guitarra. 0
+¿Puedes ayudarme con mi tarea? 0
+¿Cuál es tu película favorita? 0
+¿Tienes hermanos o hermanas? 0
+¿Cuál es el precio de este artículo? 0
+Me voy de vacaciones la próxima semana. 0
+¿Cuál es la contraseña de Wi-Fi? 0
+¿Puedes darme indicaciones hacia la estación de gasolina más cercana? 0
+Estoy cansado. 0
+¿Tienes alguna recomendación de atracciones turísticas? 0
+¿Puedo tener la cuenta, por favor? 0
+¿Cuál es tu comida favorita? 0
+Estoy estudiando para un examen. 0
+¿Cómo llego a la estación de tren? 0
+¿Cuál es la mejor forma de llegar al centro de la ciudad? 0
+Voy a un concierto esta noche. 0
+¿Cuál es tu número de teléfono? 0
+Soy alérgico a los cacahuetes. 0
+¿Puedes hablar más despacio, por favor? 0
+¿Tienes opciones vegetarianas? 0
+Asistiré a una boda mañana. 0
